@@ -83,13 +83,19 @@ Optional interpolation video
 
 # 📊 Project Workflow
 User Prompt
+
     ↓
+    
 Text Encoding via CLIP
+
     ↓
 Latent Representation Optimization in VQGAN
+
     ↓
 Image Generation & Refinement
+
     ↓
+    
 Final AI-Generated Image
 
 # 🧠 Core Concepts
