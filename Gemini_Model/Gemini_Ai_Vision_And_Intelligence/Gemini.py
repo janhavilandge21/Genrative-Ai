@@ -7,7 +7,7 @@ import textwrap
 
 st.set_page_config(page_title="Gemini AI Vision & Intelligence", layout="wide")
 
-os.environ['GEMINI_API_KEY'] = "AIzaSyBI-nZp0N5T9LYaJgdJ3M-j5j3fD_Gyhho"
+os.environ['GEMINI_API_KEY'] = "API_KEY"
 genai.configure(api_key=os.environ['GEMINI_API_KEY'])
 
 # Model
@@ -155,4 +155,5 @@ with tabs[5]:
         for m in models:
             if "generateContent" in m.supported_generation_methods:
                 st.write(f"- {m.name}")
+
 
