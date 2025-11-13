@@ -144,6 +144,5 @@ gemini-2.5-flash-lite-preview-06-17	Image → Text lightweight model
 ✔ Highly impressive in resumes & interviews
 
 
-📜 License
+<img width="1920" height="939" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/6f3cb800-1e71-4370-b335-aaad031b819c" />
 
-This project is licensed under the MIT License.
