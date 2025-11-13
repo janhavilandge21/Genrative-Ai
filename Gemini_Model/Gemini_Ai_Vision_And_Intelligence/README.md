@@ -6,16 +6,21 @@ Gemini AI Vision & Intelligence is an advanced multimodal AI application built u
 It provides a unified interface to generate insights from:
 
 ✔ Text
+
 ✔ Images
+
 ✔ Image + Text multimodal prompts
+
 ✔ Chat conversations
+
 ✔ Token usage analysis
+
 ✔ Gemini model exploration
 
 This project showcases capabilities across Vision AI, NLP, Chatbots, and Content Generation, making it perfect for Data Science, AI, and Software Engineering portfolios.
 
 # ✨ Features
-📋 1. AI Table Generator
+# 📋 1. AI Table Generator
 
 Generate smart comparison tables like:
 
@@ -29,7 +34,7 @@ Anything you want!
 
 Uses Gemini text generation to format structured output.
 
-🖼️ 2. Image Analysis (Vision AI)
+# 🖼️ 2. Image Analysis (Vision AI)
 
 Upload any image to receive:
 
@@ -41,7 +46,7 @@ Key insights
 
 Captioning
 
-🎥 3. Instagram Script Generator (Image + Text Multi-Modal)
+# 🎥 3. Instagram Script Generator (Image + Text Multi-Modal)
 
 Provide an image + prompt and generate:
 
@@ -55,7 +60,7 @@ Hashtags
 
 Powered by multimodal AI.
 
-💬 4. Smart Chatbot (Memory Enabled)
+# 💬 4. Smart Chatbot (Memory Enabled)
 
 Conversational chatbot with:
 
@@ -65,7 +70,7 @@ Context awareness
 
 Triple roles (info, assistance, creative scripting)
 
-🧠 5. Image → Text Explanation (Flash Lite Model)
+# 🧠 5. Image → Text Explanation (Flash Lite Model)
 
 Upload an image and ask:
 
@@ -78,11 +83,11 @@ Upload an image and ask:
 Uses:
 models/gemini-2.5-flash-lite-preview-06-17
 
-📚 6. Model Explorer
+# 📚 6. Model Explorer
 
 Displays all available Gemini models and capabilities.
 
-🔍 7. Token Counter
+# 🔍 7. Token Counter
 
 Understand token cost of inputs using Gemini’s token counting API.
 
@@ -99,7 +104,7 @@ PIL/Pillow	Image processing
 
 Virtual Environment	Package isolation
 
-📦 Installation
+# 📦 Installation
 ✔ Step 1: Create & Activate Virtual Environment
 python -m venv venv
 venv\Scripts\activate        # Windows
@@ -127,10 +132,15 @@ gemini-2.5-flash-lite-preview-06-17	Image → Text lightweight model
 # 🎯 Why This Project Is Impressive?
 
 ✔ Uses multimodal features (text + image + both)
+
 ✔ Shows experience with Google's latest Gemini API
+
 ✔ Includes chat capabilities with history
+
 ✔ Contains token counter + model explorer
+
 ✔ Great demonstration of AI integration + UI development
+
 ✔ Highly impressive in resumes & interviews
 
 
