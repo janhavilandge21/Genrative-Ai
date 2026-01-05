@@ -10,7 +10,8 @@ Instead of relying only on the model’s internal knowledge, the system retrieve
 
 This approach significantly reduces hallucinations and improves factual correctness.
 
-![Image](https://www.researchgate.net/publication/378364457/figure/fig1/AS%3A11431281225000902%401708532903222/Retrieval-Augmented-Generation-Architecture.png)
+![Image](<img width="850" height="452" alt="image" src="https://github.com/user-attachments/assets/b8c5908c-ec18-4a9f-872b-faf5aa30fa49" />
+)
 
 ![Image](https://mlrwd9rnffxq.i.optimole.com/cb%3A641c.2be21/w%3A950/h%3A577/q%3A90/f%3Abest/sm%3A0/https%3A//vectorize.io/wp-content/uploads/2024/04/image-16.png)
 
