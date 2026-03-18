@@ -1,5 +1,12 @@
 # 📄 AI-Powered Document Intelligence System
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-green)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![LLM](https://img.shields.io/badge/LLM-Groq-purple)
+
+
 ![Image](https://www.researchgate.net/publication/378364457/figure/fig1/AS%3A11431281225000902%401708532903222/Retrieval-Augmented-Generation-Architecture.png)
 
 ![Image](https://global.discourse-cdn.com/streamlit/original/3X/5/f/5f935cb9df829925099da453f672c46a09da244b.gif)
