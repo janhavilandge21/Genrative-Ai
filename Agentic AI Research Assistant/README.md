@@ -201,6 +201,3 @@ Query: Analyze data
 
 
 
-
-👉 Just say: **“next mock interview”** or **“build portfolio website”** 😎
-
