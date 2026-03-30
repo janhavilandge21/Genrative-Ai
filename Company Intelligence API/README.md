@@ -1,4 +1,4 @@
-# Company Intelligence API
+# Company Intelligence System
 
 A production-ready backend system designed to answer natural language queries about companies and technologies using structured data and a hybrid AI approach.
 
